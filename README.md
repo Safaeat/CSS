@@ -1,1 +1,2 @@
-This is all about CSS(Cascad Style Sheet)
+This is all about CSS (Cascading Style Sheets).
+
